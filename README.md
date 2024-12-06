@@ -51,7 +51,6 @@ Fast-Food-Menu/
 │   ├── header-bg.png
 ├── svg/
 │   ├── logo.svg
-├── .gitignore
 ├── README.md
 ├── index.html
 ├── style.css
